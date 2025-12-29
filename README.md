@@ -54,7 +54,7 @@ The dashboard is designed for:
 Sales performance monitoring
 Business decision-making
 Portfolio demonstration for data analyst roles
-
 Business decision-making
-
 Portfolio demonstration for data analyst roles
+
+https://github.com/Diksha-2412/Sales-Analysis-dashboard/blob/main/Sales%20analysis%20Dashboard.png
